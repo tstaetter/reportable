@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 1755eb752829840eca3cc5e35b36ee905097c2a2
 .bundle/
 log/*.log
 pkg/
